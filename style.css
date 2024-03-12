@@ -1,0 +1,29 @@
+header {
+    background-color: lightgray;
+}
+
+.top-heading {
+    /* display: block; */
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
+.navBar {
+    /* background-color: aliceblue; */
+}
+
+.nav-items {
+    text-align: center;
+}
+
+.nav-item {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
